@@ -1,27 +1,31 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card'
+import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
+import { Button } from '@/components/ui/button'
 import { IconRocket, IconCode, IconStars } from '@tabler/icons-react'
 
 const projects = [
   {
-    title: 'Galactic Explorer',
-    description: 'Interactive 3D solar system visualization using Three.js and WebGL',
-    technologies: ['React', 'Three.js', 'WebGL', 'GSAP'],
+    title: 'Official Alumni Portal, IIIT Kota',
+    description: 'The official alumni web portal of IIIT Kota, an institute of national importance. Hosted on college subdomain.',
+    technologies: ['React', 'Express.js', 'Node.js', 'MongoDB', 'NodeMailer', 'Material UI', 'TailwindCSS'],
+    deployedUrl: 'https://alumni.iiitkota.ac.in',
     icon: IconRocket
   },
   {
-    title: 'Nebula API Gateway',
-    description: 'High-performance microservices orchestration with real-time monitoring',
-    technologies: ['Node.js', 'GraphQL', 'Redis', 'Kubernetes'],
+    title: 'Personal Portfolio Website',
+    description: 'Interactive, Modular and Responsive web portfolio.',
+    technologies: ['Next.js', 'Three.js', 'Tailwind', 'ShadCN', 'Email.js', 'TypeScript'],
+    deployedUrl: 'https://hiteshwarkaushik.vercel.app',
     icon: IconCode
   },
   {
     title: 'Stellar Design System',
     description: 'Component library for building scalable space-themed UIs',
-    technologies: ['Vue 3', 'TypeScript', 'Storybook', 'Tailwind CSS'],
+    technologies: ['React.js', 'TypeScript', 'MongoDB', 'Expess.js', 'Node.js', 'Tailwind CSS'],
+    deployedUrl: 'https://delivery-weld-one.vercel.app/',
     icon: IconStars
   },
 ]
@@ -84,6 +88,12 @@ export default function Projects() {
                     ))}
                   </div>
                 </CardContent>
+                
+                <CardFooter>
+                  <a href={project.deployedUrl} className="text-blue-400 hover:text-purple-400 transition-colors">
+                    Check it out
+                  </a>
+                </CardFooter>
               </Card>
             </motion.div>
           ))}
