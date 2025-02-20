@@ -22,11 +22,11 @@ const projects = [
     icon: IconCode
   },
   {
-    title: 'Stellar Design System',
-    description: 'Component library for building scalable space-themed UIs',
-    technologies: ['React.js', 'TypeScript', 'MongoDB', 'Expess.js', 'Node.js', 'Tailwind CSS'],
+    title: 'Tomato - Food delivery',
+    description: 'The official alumni web portal of IIIT Kota, an institute of national importance. Hosted on college subdomain.',
+    technologies: ['React', 'Express.js', 'Node.js', 'MongoDB', 'Stripe', 'Material UI', 'TailwindCSS'],
     deployedUrl: 'https://delivery-weld-one.vercel.app/',
-    icon: IconStars
+    icon: IconRocket
   },
 ]
 

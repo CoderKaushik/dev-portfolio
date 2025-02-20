@@ -58,11 +58,6 @@ export function Footer() {
                 icon: Linkedin,
                 href: "https://linkedin.com/in/hiteshwarkaushik",
                 label: "LinkedIn"
-              },
-              {
-                icon: Twitter,
-                href: "https://twitter.com",
-                label: "Twitter"
               }
             ].map((social, index) => (
               <a
