@@ -8,22 +8,40 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const testimonials = [
   {
-    name: "Alice Johnson",
-    role: "CEO at TechStart",
+    name: "Partik Malasi",
+    role: "SWE Intern, Cyble (YC 21)",
     content:
-      "John's expertise in full-stack development significantly accelerated our project timeline. His ability to solve complex problems efficiently is truly remarkable.",
+      "Hiteshwar is a great developer with a zeal to excel in latest technologies, an amiable fellow and a quick learner",
   },
   {
-    name: "Bob Smith",
-    role: "Lead Developer at InnovateCorp",
+    name: "Rohan Saini",
+    role: "Technical Secretary, CACS IIIT Kota",
     content:
-      "Working with John was a game-changer for our team. His deep understanding of modern web technologies and best practices elevated the quality of our entire codebase.",
+      "Hiteshwar is a nice guy and he is always ready to help others. He never says no to help, and he is very kind and reliable",
   },
   {
-    name: "Carol Williams",
-    role: "Project Manager at DataDrive",
+    name: "Lakshay Dhall",
+    role: "General Secretary, E-Cell IIIT Una",
     content:
-      "John's communication skills are as impressive as his technical abilities. He consistently delivered high-quality work and kept all stakeholders well-informed throughout the project.",
+      "Working with Hiteshwar has been a game-changer for our me. His attention to detail and creativity are unmatched.  I've never met a web developer who truly cares about their clients' success like he does.",
+  },
+  {
+    name: "Anushka Chauhan",
+    role: "Student, IIT BHU",
+    content:
+      "He is an exemplary developer, always eager to learn new skills. He is very hardworking and always committed to continuous improvement. He is dedicated to his work and is a quick learner.",
+  },
+  {
+    name: "Himanshu Rautela",
+    role: "Student, IIIT Kota",
+    content:
+      "Hiteshwar is an amazing guy, always keen to learn",
+  },
+  {
+    name: "Himanshu Rautela",
+    role: "Student, IIIT Kota",
+    content:
+      "I've known Hiteshwar since before he started college, and his dedication and work ethic have always been impressive. He's not only highly organized and punctual, but also possesses exceptional leadership qualities. Throughout his academic career, he's consistently demonstrated a drive to excel, placing him at the forefront of his peers.",
   },
 ];
 
