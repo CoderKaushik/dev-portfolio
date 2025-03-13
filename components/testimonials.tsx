@@ -38,8 +38,8 @@ const testimonials = [
       "Hiteshwar is an amazing guy, always keen to learn",
   },
   {
-    name: "Himanshu Rautela",
-    role: "Student, IIIT Kota",
+    name: "Yogit Nainani",
+    role: "Business Analyst Intern, Meesho",
     content:
       "I've known Hiteshwar since before he started college, and his dedication and work ethic have always been impressive. He's not only highly organized and punctual, but also possesses exceptional leadership qualities. Throughout his academic career, he's consistently demonstrated a drive to excel, placing him at the forefront of his peers.",
   },
