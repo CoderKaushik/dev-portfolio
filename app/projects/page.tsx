@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: 'Tomato - Food delivery',
-    description: 'The official alumni web portal of IIIT Kota, an institute of national importance. Hosted on college subdomain.',
+    description: 'A full stack food ordering application based on MERN + Stripe tech stack.',
     technologies: ['React', 'Express.js', 'Node.js', 'MongoDB', 'Stripe', 'Material UI', 'TailwindCSS'],
     deployedUrl: 'https://delivery-weld-one.vercel.app/',
     icon: IconRocket
