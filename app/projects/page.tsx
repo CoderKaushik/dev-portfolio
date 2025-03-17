@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: 'Tomato - Food delivery',
-    description: 'A full stack food ordering application based on MERN + Stripe tech stack.',
+    description: 'A full stack food ordering application based on MERN + Stripe tech stack!.',
     technologies: ['React', 'Express.js', 'Node.js', 'MongoDB', 'Stripe', 'Material UI', 'TailwindCSS'],
     deployedUrl: 'https://delivery-weld-one.vercel.app/',
     icon: IconRocket
