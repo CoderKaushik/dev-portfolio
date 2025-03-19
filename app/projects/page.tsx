@@ -28,6 +28,12 @@ const projects = [
     deployedUrl: 'https://delivery-weld-one.vercel.app/',
     icon: IconRocket
   },
+  {
+    title: 'Humanify Database',
+    description: 'A backend server that utilizes AI to turn Human written queries (english) to SQL, and SQL results to layman readable language (english).',
+    technologies: ['Node.js', 'OpenAI', 'GitHub Workplace', 'SQL', 'GitHub', 'Git'],
+    deployedUrl: ''
+  }
 ]
 
 export default function Projects() {
