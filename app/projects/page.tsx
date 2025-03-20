@@ -31,7 +31,7 @@ const projects = [
   {
     title: 'Humanify Database',
     description: 'A backend server that utilizes AI to turn Human written queries (english) to SQL, and SQL results to layman readable language (english).',
-    technologies: ['Node.js', 'OpenAI', 'GitHub Workplace', 'SQL', 'GitHub', 'Git'],
+    technologies: ['Node.js', 'OpenAI', 'GitHub Marketplace', 'SQL', 'GitHub', 'Git'],
     deployedUrl: 'https://github.com/CoderKaushik/AuthCastAssignment',
     icon: IconCode
   }
