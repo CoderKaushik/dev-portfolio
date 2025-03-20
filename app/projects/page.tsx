@@ -29,7 +29,7 @@ const projects = [
     icon: IconRocket
   },
   {
-    title: 'Humanify Database',
+    title: 'SchemaTalk',
     description: 'A backend server that utilizes AI to turn Human written queries (english) to SQL, and SQL results to layman readable language (english).',
     technologies: ['Node.js', 'OpenAI', 'GitHub Marketplace', 'SQL', 'GitHub', 'Git'],
     deployedUrl: 'https://github.com/CoderKaushik/AuthCastAssignment',
