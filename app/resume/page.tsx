@@ -89,6 +89,16 @@ export default function Resume() {
               <div className="space-y-6">
                 {[
                   {
+                    title: "Frontend Developer Intern - DhagaKart",
+                    duration: "Feb - April 2025",
+                    description: "Built a mobile-first e-commerce frontend with React.js and Tailwind CSS, boosting conversions, SEO traffic, and sales while delivering features ahead of schedule."
+                  },
+                  {
+                    title: "Backend Developer Intern - GoodGutProject",
+                    duration: "Dec 2024 - Feb 2025",
+                    description: "Developed and deployed 20+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app."
+                  },
+                  {
                     title: "President — IIITians Network",
                     duration: "2024-2025",
                     description: "Leading 14,500+ students across 31 IIITs, enhancing engagement through inter-college contests and technical initiatives"

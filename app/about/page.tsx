@@ -217,6 +217,18 @@ export default function About() {
 
 const experiences = [
   {
+    title: "Frontend Developer Intern - DhagaKart",
+    duration: "Feb - April 2025",
+    description: "Built a mobile-first e-commerce frontend with React.js and Tailwind CSS, boosting conversions, SEO traffic, and sales while delivering features ahead of schedule.",
+    icon: IconRocket
+  },
+  {
+    title: "Backend Developer Intern - GoodGutProject",
+    duration: "Dec 2024 - Feb 2025",
+    description: "Developed and deployed 20+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app.",
+    icon: IconCode
+  },
+  {
     title: "President | IIITians Network",
     duration: "May 2024 – Present",
     description: "Spearheading a 14,500+ member network across 31 IIITs, driving cross-institutional collaborations and technical initiatives.",
