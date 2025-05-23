@@ -66,23 +66,18 @@ export default function Contact() {
           {[
             {
               icon: IconBrandGithub,
-              href: "https://github.com",
+              href: "https://github.com/coderkaushik",
               label: "GitHub"
             },
             {
               icon: IconBrandLinkedin,
-              href: "https://linkedin.com",
+              href: "https://linkedin.com/in/hiteshwarkaushik",
               label: "LinkedIn"
             },
             {
               icon: IconMail,
-              href: "mailto:john.doe@example.com",
+              href: "mailto:hiteshwarkaushik@gmail.com",
               label: "Email"
-            },
-            {
-              icon: IconBrandTwitter,
-              href: "https://twitter.com",
-              label: "Twitter"
             }
           ].map((social, index) => (
             <Button
