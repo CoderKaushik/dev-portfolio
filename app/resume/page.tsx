@@ -96,7 +96,7 @@ export default function Resume() {
                   {
                     title: "Software Developer Intern - GoodGutProject",
                     duration: "Dec 2024 - Feb 2025",
-                    description: "Developed and deployed 20+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app."
+                    description: "Developed and deployed 30+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app."
                   },
                   {
                     title: "President — IIITians Network",

@@ -219,7 +219,7 @@ const experiences = [
   {
     title: "Software Developer Intern - DhagaKart",
     duration: "Feb - July 2025",
-    description: " Solo developed, Backend + Fronted using React js and Node js- DhagaKart’s B2B e-commerce platform (User & Admin portals) from scratch, used by 500+ customers.",
+    description: " Solo developed, Backend + Fronted using React js and Node js- DhagaKart’s B2B e-commerce platform (User &  Admin portals) from scratch, used by 500+ customers.",
     icon: IconRocket
   },
   {
