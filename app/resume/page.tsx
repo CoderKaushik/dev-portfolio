@@ -89,14 +89,14 @@ export default function Resume() {
               <div className="space-y-6">
                 {[
                   {
-                    title: "Frontend Developer Intern - DhagaKart",
-                    duration: "Feb - April 2025",
-                    description: "Built a mobile-first e-commerce frontend with React.js and Tailwind CSS, boosting conversions, SEO traffic, and sales while delivering features ahead of schedule."
+                    title: "Software Developer Intern - DhagaKart",
+                    duration: "Feb - July 2025",
+                    description: " Solo developed, Backend + Fronted using React js and Node js- DhagaKart’s B2B e-commerce platform (User & Admin portals) from scratch, used by 500+ customers."
                   },
                   {
-                    title: "Backend Developer Intern - GoodGutProject",
+                    title: "Software Developer Intern - GoodGutProject",
                     duration: "Dec 2024 - Feb 2025",
-                    description: "Developed and deployed 20+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app."
+                    description: "Developed and deployed 30+ secure RESTful APIs with OAuth 2.0, role-based access control, and Swagger documentation for GGP’s mobile app."
                   },
                   {
                     title: "President — IIITians Network",
@@ -142,7 +142,8 @@ export default function Resume() {
           <Card className="relative bg-gray-800 border border-gray-700/50 hover:border-gray-700 transition-colors">
             <CardContent className="p-0">
               <iframe
-                src="/resume.pdf"
+                // src="/resume.pdf"
+                src="/NewResume.pdf"
                 className="w-full h-[600px] border-none rounded-lg"
                 title="Resume Preview"
               />
