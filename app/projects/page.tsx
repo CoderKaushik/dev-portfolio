@@ -34,6 +34,20 @@ const projects = [
     technologies: ['Node.js', 'OpenAI', 'GitHub Marketplace', 'SQL', 'GitHub', 'Git'],
     deployedUrl: 'https://github.com/CoderKaushik/AuthCastAssignment',
     icon: IconCode
+  },
+  {
+    title: 'DhagaKart',
+    description: 'Built a Full Stack B2B ECommerce website for DhagaKart.com, added payment gateway, OAuth by google, Cloudinary support and a comprehensive admin dashboard.',
+    technologies: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Cloudinary', 'Razorpay', 'TailwindCSS'],
+    deployedUrl: 'https://www.dhagakart.com',
+    icon: IconRocket
+  },
+  {
+    title: 'Store Monitoring Backend For Restaurants',
+    description: 'Developed a backend system to monitor restaurant store uptime/downtime using FastAPI, SQLAlchemy, and Pandas. Features include timezone-aware business logic, asynchronous report generation, efficient bulk data ingestion, and automated API documentation. Reports are generated in CSV format and served via RESTful endpoints.',
+    technologies: ['Python', 'FastAPI', 'SQLAlchemy', 'SQLite', 'Pandas', 'Pytz', 'Uvicorn', 'Docker'],
+    deployedUrl: 'https://github.com/CoderKaushik/Hiteshwar_26-08-2025',
+    icon: IconRocket
   }
 ]
 
